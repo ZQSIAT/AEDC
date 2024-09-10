@@ -1,5 +1,5 @@
-# EDC
-For the paper "Learning Discriminative Action Representations in Videos via Embedding Distance Correlation"
+# AEDC
+For the paper "Learning Discriminative Representations in Videos via Active Embedding Distance Correlation"
 
 # Video classification with SlowFast/UniFormer
 
