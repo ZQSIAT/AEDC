@@ -1,6 +1,6 @@
 # AEDC
 For the paper "Learning Discriminative Representations in Videos via Active Embedding Distance Correlation"
-![images](.overview.png)
+![images](overview.png)
 
 # Video classification with SlowFast/UniFormer
 
